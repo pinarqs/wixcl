@@ -10,11 +10,6 @@ Bu repository, Wix kullanarak geliştirdiğim projeleri ve deneyimimi göstermek
 - Wix Forms
 - Wix SEO Tools
 
-## 🌍 Yayında Olan Projelerim
-
-- https://siteadresin.com
-- https://siteadresin2.com
-
 ## 🛠 Teknik Bilgi
 
 Wix üzerinde:
