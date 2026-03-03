@@ -1,22 +1,28 @@
-# wixcl
+# Wix Projects
 
-Wix CLI ile proje yönetimi için örnek repo.
+Bu repository, Wix kullanarak geliştirdiğim projeleri ve deneyimimi göstermek için oluşturulmuştur.
 
-## 🚀 Kurulum
+## 🚀 Kullandığım Wix Özellikleri
 
-```bash
-npm install -g @wix/cli
-```
+- Wix Editor
+- Wix Velo (JavaScript)
+- Wix CMS
+- Wix Forms
+- Wix SEO Tools
 
-## 📦 Kullanım
+## 🌍 Yayında Olan Projelerim
 
-```bash
-wix --help
-```
+- https://siteadresin.com
+- https://siteadresin2.com
 
-## 🛠 Gereksinimler
-- Node.js 18+
-- npm
+## 🛠 Teknik Bilgi
 
-## 📄 Lisans
-MIT
+Wix üzerinde:
+- Dinamik sayfalar oluşturdum
+- CMS bağlantıları yaptım
+- Özel JavaScript kodları yazdım (Velo)
+- SEO optimizasyonu yaptım
+
+---
+
+📌 Amaç: Wix geliştirme deneyimimi göstermek.
